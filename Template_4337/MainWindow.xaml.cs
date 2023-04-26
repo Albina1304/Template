@@ -33,7 +33,8 @@ namespace Template_4337
 
         private void ShaykhullinaAlbina_4337_Click(object sender, RoutedEventArgs e)
         {
-
+            var window = new ShaykhullinaAlbina_4337();
+            window.Show();
         }
     }
 }
